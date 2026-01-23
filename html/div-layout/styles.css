@@ -30,7 +30,10 @@
 .right{
     height: 800px;
     width: 780px;
+    gap: 20px;
+    
 }
+
 .right-top{
     width: 780px;
     height: 100px;
@@ -47,4 +50,25 @@
     width: 390px;
     height: 100px;
     
+}
+
+.right-main{
+    width: 780px;
+    height: 500px;
+}
+.right-main-top{
+    width: 780px;
+    height: 250px;     
+}
+.right-main-top-left{
+    background-color: #7bed9f;
+    width: 390px;
+    height: 250px;
+    float: left;
+}
+.right-main-top-right{
+    background-color: #ff6b81;
+    width: 390px;
+    height: 250px;
+    float: right;
 }
