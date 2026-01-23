@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    background-color: #413d3d;
+    border:20px solid #413d3d;
+}
+.left{
+    width: 200px;
+    height: 600px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.left-top{
+    background-color: #42f554;
+    width: 200px;
+    height: 300px;
+
+    
+    
+}
+.left-bottom{
+    background-color: #4287f5;
+    width: 200px;
+    height: 300px;
+}
